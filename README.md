@@ -4,13 +4,13 @@ Hi there! I'm Prithaviraj, a self-taught data analyst from India. I've done my g
 
 
 
-## :Books: Projects & Guides :Books:
+## 📚 Projects & Guides📚
 
 In my portfolio(which is currently not completed) you can find [projects](#) on Data analytics.
 
 
 
-## :Bulb: My Skills
+## 💡 My Skills
   - Data wrangling
   - Data preparation
   - Data analysis
@@ -19,7 +19,7 @@ In my portfolio(which is currently not completed) you can find [projects](#) on 
 
 
 
-## :Tools: My Tools
+## ⚒️ My Tools
   - Database : SQL(MySQL, PostgreSQL)
   - Python (Numpy, Pandas, Sklearn)
   - Visualisation : Power BI, Matplotlib, Seaborn
@@ -27,7 +27,7 @@ In my portfolio(which is currently not completed) you can find [projects](#) on 
 
 
 
-## :Handshake: Connect with Me
+## 🤝 Connect with Me
   - [Linkedin](https://www.linkedin.com/in/pr7hc/)
   - [Twitter](https://twitter.com/Prithavi_r)
   - [Kaggle](https://www.kaggle.com/pri071)
