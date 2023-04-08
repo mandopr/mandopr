@@ -4,9 +4,13 @@ Hi there! I'm Prithaviraj, a self-taught data analyst from India. I've done my g
 
 
 
+
+
 ## 📚 Projects & Guides📚
 
 In my portfolio(which is currently not completed) you can find [projects](#) on Data analytics.
+
+
 
 
 
@@ -19,11 +23,15 @@ In my portfolio(which is currently not completed) you can find [projects](#) on 
 
 
 
+
+
 ## ⚒️ My Tools
   - Database : SQL(MySQL, PostgreSQL)
   - Python (Numpy, Pandas, Sklearn)
   - Visualisation : Power BI, Matplotlib, Seaborn
   - Excel
+
+
 
 
 
