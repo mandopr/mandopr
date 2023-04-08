@@ -1,12 +1,14 @@
 # Introducing Myself 🙋‍♂️
 
-Hi there! I'm Prithaviraj, a self-taught data analyst from India. I've done my graduation in BCA and after so much of confusion I finally thought to practice data analyst as it makes me curious to get insight of anything you wish for.
+Hi there! I'm Prithaviraj, a self-taught data analyst from India. I've done my graduation in BCA and after so much of confusion I finally thought to practice data analyst as it makes me curious to get insight of anything you wish for.  
+
 
 
 
 ## 📚 Projects & Guides📚
 
-In my portfolio(which is currently not completed) you can find [projects](#) on Data analytics.
+In my portfolio(which is currently not completed) you can find [projects](#) on Data analytics.  
+
 
 
 
@@ -15,7 +17,8 @@ In my portfolio(which is currently not completed) you can find [projects](#) on 
   - Data preparation
   - Data analysis
   - Dashboard development and reporting
-  - Exploratory data analysis
+  - Exploratory data analysis  
+
 
 
 
@@ -23,7 +26,8 @@ In my portfolio(which is currently not completed) you can find [projects](#) on 
   - Database : SQL(MySQL, PostgreSQL)
   - Python (Numpy, Pandas, Sklearn)
   - Visualisation : Power BI, Matplotlib, Seaborn
-  - Excel
+  - Excel  
+
 
 
 
