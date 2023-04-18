@@ -24,9 +24,9 @@ In my portfolio(which is currently not completed) you can find [projects](#) on 
 
 ## ⚒️ My Tools
   - Database : SQL (MySQL)
-  - Python (Numpy, Pandas, Sklearn)
+  - Programming Languages : Python (Numpy, Pandas, Sklearn)
   - Visualisation : Tableau, Power BI, Matplotlib, Seaborn
-  - Excel  
+  - Tools : Excel  
 
 
 
