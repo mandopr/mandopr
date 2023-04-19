@@ -17,7 +17,7 @@ In my portfolio(which is currently not completed) you can find [projects](#) on 
   - Data preparation
   - Data analysis
   - Dashboard development and reporting
-  - Exploratory data analysis  
+  - Exploratory data analysis
 
 
 
@@ -26,7 +26,7 @@ In my portfolio(which is currently not completed) you can find [projects](#) on 
   - Database : SQL (MySQL)
   - Programming Languages : Python (Numpy, Pandas, Sklearn)
   - Visualisation : Tableau, Power BI, Matplotlib, Seaborn
-  - Tools : Excel  
+  - Tools : Excel, GIT
 
 
 
